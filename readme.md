@@ -87,8 +87,8 @@ To run these notebooks, you need to have the following libraries installed:
 Clone the repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/yourusername/your-repository.git
-cd your-repository
+git clone https://github.com/natthawit-jan/data_science_proj.git
+cd data_science_proj
 ```
 
 Start Jupyter Notebook:
